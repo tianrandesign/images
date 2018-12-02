@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Youtube</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Socialmedia/5" transform="translate(-206.000000, 0.000000)">
+            <g id="Youtube" transform="translate(206.000000, 0.000000)">
+                <rect x="0" y="0" width="44" height="44"></rect>
+                <path d="M38.2894773,13.7476774 C37.8984773,12.2724516 36.7465341,11.1107742 35.2835682,10.7165161 C32.6321477,10 22,10 22,10 C22,10 11.3678523,10 8.71643182,10.7165161 C7.25365909,11.1107742 6.10152273,12.2724516 5.71052273,13.7476774 C5,16.4213548 5,22 5,22 C5,22 5,27.5784516 5.71052273,30.2525161 C6.10152273,31.7275484 7.25365909,32.8892258 8.71643182,33.2836774 C11.3678523,34 22,34 22,34 C22,34 32.6321477,34 35.2835682,33.2836774 C36.7465341,32.8892258 37.8984773,31.7275484 38.2894773,30.2525161 C39,27.5784516 39,22 39,22 C39,22 39,16.4213548 38.2894773,13.7476774" id="Fill-1-Copy-6" fill="#00253E"></path>
+                <polyline id="Fill-4-Copy-3" fill="#FFFFFE" points="19 27.1299355 27.8863636 22.0651613 19 17 19 27.1299355"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
